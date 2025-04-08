@@ -18,8 +18,8 @@ const BudgetMont = () => {
       <Table>
         <Table.Head>
           <Table.Column>Necesidades (50%)</Table.Column>
-          <Table.Column>Deseos (50%)</Table.Column>
-          <Table.Column>Ahorros (50%)</Table.Column>
+          <Table.Column>Deseos (30%)</Table.Column>
+          <Table.Column>Ahorros (20%)</Table.Column>
         </Table.Head>
         <Table.Body>
           <Table.Row>
